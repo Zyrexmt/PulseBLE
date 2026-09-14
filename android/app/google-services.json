@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538936575694",
+    "project_id": "pulseble043",
+    "storage_bucket": "pulseble043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538936575694:android:28a2eaa7aeafe64feef29f",
+        "android_client_info": {
+          "package_name": "com.example.pulseble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5auySilbzOU2l-YoABbR3AlMqEZuW0SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
