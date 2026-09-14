@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:pulseble/service/leituraBle.dart';
 
-class FirestoneService {
+class FirestoreService {
   final _db = FirebaseFirestore.instance;
   final String _colecao = 'leituras_ble';
 
